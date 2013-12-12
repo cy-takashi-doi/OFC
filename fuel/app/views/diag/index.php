@@ -1,5 +1,5 @@
 <!--<div class="fb-container">-->
-	<!--<?php echo Asset::img('background.png',array("width" => "810")); ?>-->
+	<!--<?php //echo Asset::img('background.png',array("width" => "810")); ?>-->
 	<div class="jumbotron fb-jumbotron">
 		<h2>イケメン相性診断！！</h2>
 		<p>いいねをすると"イケメン診断"できるよ！！</p>
