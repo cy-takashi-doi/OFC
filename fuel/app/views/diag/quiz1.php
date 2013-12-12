@@ -1,9 +1,12 @@
+<body class="login">
+<div class="container">
 <!--<div class="fb-container">-->
-	<div class="login">
+	<div class="jumbotron">
 		<h2>食事は好きな方から食べる</h2>
+		<br />
 		<p>
-			<a class="btn btn-primary btn-lg" role="button" href="/diag/quiz2">はい</a>
-			<a class="btn btn-primary btn-lg" role="button" href="/diag/quiz3">いいえ</a>
+			<a class="btn btn-primary btn-hg" role="button" href="/diag/quiz2">はい</a>
+			<a class="btn btn-primary btn-hg" role="button" href="/diag/quiz3">いいえ</a>
 		</p>
 	</div>
 <!--</div>-->

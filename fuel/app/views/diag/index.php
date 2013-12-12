@@ -1,3 +1,5 @@
+<body class="fb-container">
+<div class="container">
 <!--<div class="fb-container">-->
 	<!--<?php //echo Asset::img('background.png',array("width" => "810")); ?>-->
 	<div class="jumbotron fb-jumbotron">
