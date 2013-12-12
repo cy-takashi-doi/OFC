@@ -12,12 +12,12 @@
   }
 </script>-->
 <div class="fb-container">
-<div class="jumbotron">
-	<h1>イケメンとの相性を診断しよう！！</h1>
-	<p>いいねをすると"イケメン診断"できるよ！！</p>
-	<p><a class="btn btn-primary btn-lg" role="button">今すぐ診断開始</a></p>
-</div>
 	<?php echo Asset::img('background.png'); ?>
+	<div class="jumbotron">
+		<h1>イケメンとの相性を診断しよう！！</h1>
+		<p>いいねをすると"イケメン診断"できるよ！！</p>
+		<p><a class="btn btn-primary btn-lg" role="button">今すぐ診断開始</a></p>
+	</div>
 </div>
 <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
 <script type="text/javascript">
