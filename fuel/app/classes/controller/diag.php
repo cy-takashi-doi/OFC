@@ -58,6 +58,9 @@ class Controller_Diag extends Controller_Template
 	{
 		//$data["subnav"] = array('start'=> 'active' );
 		//$this->template->title = 'Diag &raquo; Start';
+		$data = array();
+		$this->template->title = '"イケメン相性診断スタート';
+		$data['appId'] = $this->fb_conf['init']['appId'];
 		$this->template->content = View::forge('diag/start', $data);
 	}
 
@@ -65,6 +68,9 @@ class Controller_Diag extends Controller_Template
 	{
 		//$data["subnav"] = array('start'=> 'active' );
 		//$this->template->title = 'Diag &raquo; Start';
+		$data = array();
+		$this->template->title = '"答えはどちらかな？';
+		$data['appId'] = $this->fb_conf['init']['appId'];
 		$this->template->content = View::forge('diag/quiz1', $data);
 	}
 	
