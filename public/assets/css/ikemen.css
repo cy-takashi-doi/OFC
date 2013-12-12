@@ -10,7 +10,13 @@
 }
 .fb-container {
   background: url(../img/background.png) center no-repeat;
-  /*width: 810px;*/
+  width: 810px;
+}
+.fb-jumbotron {
+  filter:alpha(opacity=85);
+  -moz-opacity:0.85;
+  -khtml-opacity: 0.85;
+  opacity:0.85;	
 }
 .demo-headline {
   padding: 73px 0 110px;
