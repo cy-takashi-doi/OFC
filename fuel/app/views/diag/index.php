@@ -1,16 +1,3 @@
-<!--<script type='text/javascript'>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId : '1382564888634899',
-      status : true,
-      cookie : true,
-      xfbml : true,
-      logging : true
-    });
-    /* キャンバスのサイズ(px) */
-   FB.Canvas.setAutoGrow();
-  }
-</script>-->
 <div class="fb-container">
 	<?php echo Asset::img('background.png',array("width" => "810")); ?>
 	<div class="jumbotron">
