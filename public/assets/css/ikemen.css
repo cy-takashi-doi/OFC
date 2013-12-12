@@ -29,6 +29,9 @@
   position: relative;
   width: 810px;
 }
+.fb-login-screen {
+  padding: 123px 40px 33px 40px;
+}
 .fb-quiz {
   background-color: transparent;
   width: 780px;

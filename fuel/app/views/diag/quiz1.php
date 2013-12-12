@@ -1,5 +1,5 @@
 <body class="fb-login">
-<div class="login-screen">
+<div class="login-screen fb-login-screen">
 <!--<div class="fb-container">-->
 	<div class="jumbotron fb-quiz">
 		<h2>食事は好きな方から食べる</h2>
