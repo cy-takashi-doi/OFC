@@ -1,5 +1,5 @@
 <!--<div class="fb-container">-->
-	<div class="jumbotron fb-jumbotron">
+	<div class="login">
 		<h2>食事は好きな方から食べる</h2>
 		<p>
 			<a class="btn btn-primary btn-lg" role="button" href="/diag/quiz2">はい</a>
