@@ -12,7 +12,7 @@
   }
 </script>-->
 <div class="fb-container">
-	<?php echo Asset::img('background.png'); ?>
+	<?php echo Asset::img('background.png',array("width" => "810")); ?>
 	<div class="jumbotron">
 		<h1>イケメンとの相性を診断しよう！！</h1>
 		<p>いいねをすると"イケメン診断"できるよ！！</p>
