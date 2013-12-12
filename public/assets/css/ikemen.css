@@ -10,6 +10,7 @@
 }
 .fb-container {
   background: url(../img/background.png) no-repeat;
+  background-color: lightcoral;
   width: 810px;
 }
 .fb-jumbotron {
