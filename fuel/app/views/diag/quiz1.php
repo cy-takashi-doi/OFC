@@ -1,7 +1,7 @@
 <body class="login">
-<div class="container">
+<div class="login-screen">
 <!--<div class="fb-container">-->
-	<div class="jumbotron">
+	<div class="fb-quiz">
 		<h2>食事は好きな方から食べる</h2>
 		<br />
 		<p>
