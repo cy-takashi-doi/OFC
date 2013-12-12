@@ -9,14 +9,17 @@
   max-width: 970px !important;
 }
 .fb-container {
-  background: url(../img/background.png) center no-repeat;
+  background: url(../img/background.png) no-repeat;
   width: 810px;
 }
 .fb-jumbotron {
   filter:alpha(opacity=85);
   -moz-opacity:0.85;
   -khtml-opacity: 0.85;
-  opacity:0.85;	
+  opacity:0.85;
+  position: absolute;
+  top: 350px;
+  width: 780px;
 }
 .demo-headline {
   padding: 73px 0 110px;
