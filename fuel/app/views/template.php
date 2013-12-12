@@ -19,7 +19,7 @@
 	<script src="js/html5shiv.js"></script>
 	<![endif]-->
 </head>
-<body>
+<body class="fb-container">
 	<div class="container">
 	<?php if (Session::get_flash('success')): ?>
 		<div class="alert alert-success">

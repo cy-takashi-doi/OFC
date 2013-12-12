@@ -10,7 +10,7 @@
 }
 .fb-container {
   background: url(../img/background.png) center no-repeat;
-  width: 810px;
+  /*width: 810px;*/
 }
 .demo-headline {
   padding: 73px 0 110px;
