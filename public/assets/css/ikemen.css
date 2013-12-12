@@ -22,10 +22,15 @@
   width: 780px;
 }
 .fb-login {
+  background: url(../img/imac.png) no-repeat;
+  color: #ffffff;
+  margin-bottom: 77px;
+  padding: 38px 38px 267px;
+  position: relative;
   width: 810px;
 }
 .fb-quiz {
-  background-color: #ECF0F1;
+  background-color: transparent;
   width: 780px;
 }
 .demo-headline {

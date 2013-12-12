@@ -1,12 +1,12 @@
-<body class="login">
+<body class="fb-login">
 <div class="login-screen">
 <!--<div class="fb-container">-->
-	<div class="fb-quiz">
+	<div class="jumbotron fb-quiz">
 		<h2>食事は好きな方から食べる</h2>
 		<br />
 		<p>
-			<a class="btn btn-primary btn-hg" role="button" href="/diag/quiz2">はい</a>
-			<a class="btn btn-primary btn-hg" role="button" href="/diag/quiz3">いいえ</a>
+			<a class="btn btn-danger btn-hg" role="button" href="/diag/quiz2">はい</a>
+			<a class="btn btn-danger btn-hg" role="button" href="/diag/quiz3">いいえ</a>
 		</p>
 	</div>
 <!--</div>-->
