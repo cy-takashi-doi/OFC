@@ -32,6 +32,7 @@
 }
 .fb-login-screen {
   padding: 30px 10px 30px 10px;
+  min-height: 200px;
 }
 .fb-quiz {
   background-color: transparent;
