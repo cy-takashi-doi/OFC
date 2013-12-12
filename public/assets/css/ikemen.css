@@ -9,8 +9,7 @@
   max-width: 970px !important;
 }
 .fb-container {
-  /*background: url(../img/background.png) center 0 no-repeat;*/
-  background: url(../img/chara11.jpg) center 0 no-repeat;
+  background: url(../img/background.png) center no-repeat;
   width: 810px;
 }
 .demo-headline {
